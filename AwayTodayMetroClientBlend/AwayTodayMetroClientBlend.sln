@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwayTodayMetroClientBlend", "AwayTodayMetroClientBlend\AwayTodayMetroClientBlend.csproj", "{87eaea7c-f011-4c39-a06b-d41ac725aaeb}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|ARM.Build.0 = Debug|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x64.ActiveCfg = Debug|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x64.Build.0 = Debug|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x64.Deploy.0 = Debug|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x86.ActiveCfg = Debug|x86
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x86.Build.0 = Debug|x86
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Debug|x86.Deploy.0 = Debug|x86
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|ARM.ActiveCfg = Release|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|ARM.Build.0 = Release|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|ARM.Deploy.0 = Release|ARM
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x64.ActiveCfg = Release|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x64.Build.0 = Release|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x64.Deploy.0 = Release|x64
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x86.ActiveCfg = Release|x86
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x86.Build.0 = Release|x86
+		{87EAEA7C-F011-4C39-A06B-D41AC725AAEB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+EndGlobal
